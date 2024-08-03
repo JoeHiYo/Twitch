@@ -74,6 +74,6 @@ a {
   color: rgb(191, 148, 255);
 }
 img {vertical-align: middle;}
-.t5 {font-size: 13px;}
+.t5 {font-size: 13px; white-space: normal;}
 table {max-width: 800px;}
 td.ce.win {white-space: nowrap;}
