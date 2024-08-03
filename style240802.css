@@ -1,0 +1,79 @@
+body { text-align: center; font-family: "Verdana", Arial, sans-serif; background-color: #0E0E10; color: #EFEFF1; font-size: 12px }
+h1 { font-family: "Arial"; color: #EFEFF1; font-size: 26px; font-weight: normal; margin: 4px }
+h3 { font-family: "Arial"; color: #EFEFF1; font-size: 20px; font-weight: normal; margin: 3px }
+h4 { font-family: "Arial"; color: #EFEFF1; font-size: 16px; font-weight: normal; margin: 2px }
+h5 { font-family: "Arial"; color: #EFEFF1; font-size: 16px; font-weight: normal; margin: 2px }
+table { border: 0px ; padding: 0px; border-spacing: 1px }
+img { border-width: 0px; }
+.ttxt { border: 0px; padding: 2px }
+.tgr,  .tinv { border: 0px }
+.tadj { border-style: none; border-collapse: collapse }
+.tadj td { border: 0px none; padding: 0px }
+.txt1 { font-family: "Verdana"; color: #EFEFF1; font-size: 12px; text-align: left }
+.txt2 { font-family: "Verdana"; color: #EFEFF1; font-size: 12px; text-align: left }
+
+.t1 { font-family: "Verdana"; color: #EFEFF1; font-size: 12px; text-align: left; font-weight: bold }
+.t2 { font-family: "Verdana"; color: #EFEFF1; font-size: 12px; text-align: left; font-style: normal }
+.t5 { font-family:"Arial"; color:#EFEFF1; font-size:12px; text-align:left; font-weight:normal; font-style: italic }
+.t6 { font-family:"Verdana"; color:#EFEFF1; font-size:10px; text-align:right; font-style: normal; white-space:nowrap; }
+.tal { text-align: left }
+.tar { text-align: right }
+.tac { text-align: center }
+
+.s1 { font-family: "Arial"; color: #EFEFF1; font-size: 9px; vertical-align: bottom; text-align: center  }
+.s2 { font-family: "Arial"; color: #EFEFF1; font-size: 9px; vertical-align: bottom; text-align: center ; border: 0px }
+.s3 { font-family: "Arial"; color: #EFEFF1; font-size: 9px; vertical-align: bottom; text-align: center }
+.s4 { font-family: "Verdana"; color: #EFEFF1; font-size: 10px; text-align: left }
+.s5 { font-family: "Verdana"; color: #EFEFF1; font-size: 10px; text-align: left; border:0px }
+.sq { font-style: italic }
+.win { font-weight: bold }
+.toc { font-family: "Arial"; color: #EFEFF1; font-size: 16px; font-weight: normal; margin: 2px }
+.ra { font-family: "Arial"; color: #EFEFF1; font-size: 32px; text-align: center; border-style: solid; border-width: 4px; border-color: #ffffff #000000 #000000 #ffffff; }
+.rn { font-family:"Verdana"; color:#EFEFF1;font-size:16px; text-align:left;font-weight:bold; font-style:normal; }
+.rb { border-style:solid;border-width:3px 0px; border-color:#18181B; color:#EFEFF1}
+.box { Border: 1px solid #EFEFF1 }
+.ac { font-family: "Verdana", Arial, sans-serif; color:#000000; font-size: 10px; vertical-align: middle; text-align: center }
+.am { vertical-align: top; Border: 1px solid #EFEFF1 }
+.cr { background-color: #0E0E10; padding: 2px; border-style: outset; border-width: 2px; font-family: Arial, sans-serif; color: #EFEFF1; font-size: 12px; vertical-align: middle; text-align: left }
+.ca { background-color: #18181B }
+.cb { background-color: #18181B }
+.cc { background-color: #18181B }
+.cbg { background-color: #0E0E10 }
+.cn { background-color: #18181B }
+.cd { background-color: #18181B }
+.ce { background-color: #18181B }
+.cf { background-color: #18181B }
+.cda { background-color: #18181B }
+.cdb { background-color: #18181B }
+.cdc { background-color: #18181B }
+.cea { background-color: #18181B }
+.ceb { background-color: #18181B }
+.cec { background-color: #18181B }
+.cfa { background-color: #18181B }
+.cfb { background-color: #18181B }
+.cfc { background-color: #18181B }
+.cs0 { background-color: #A0A0A0 }
+.cs1 { background-color: #FF0000 }
+.cs2 { background-color: #FFFF00 }
+.cs3 { background-color: #00FF00 }
+.cs4 { background-color: #00FFFF }
+.cs5 { background-color: #0000FF }
+.cacl { background-color: #FF0000 }
+.cacm { background-color: #FFFF00 }
+.cach { background-color: #00FF00 }
+.cs1a { background-color: #FF7F00 }
+.cs2a { background-color: #7FFF00 }
+.cs3a { background-color: #00FF7F }
+.cs4a { background-color: #007FFF }
+A { color: #EFEFF1 }
+A:link {text-decoration: none}
+A:visited {text-decoration: none}
+A:active {text-decoration: none}
+A:hover {text-decoration: underline;}
+a {
+  color: rgb(191, 148, 255);
+}
+img {vertical-align: middle;}
+.t5 {font-size: 13px; white-space: normal;}
+table {max-width: 800px;}
+td.ce.win {white-space: nowrap;}
