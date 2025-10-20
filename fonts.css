@@ -23,121 +23,115 @@
   src: url("https://joehiyo.github.io/Twitch/earthbound-dialogue.ttf")
 }
 
-.ffgba {
+@font-face {
   font-family: "ffgba";
   src: url("https://joehiyo.github.io/Twitch/ffgba.ttf")
 }
 
-.ff1 {
+@font-face {
   font-family: "final-fantasy-1";
   src: url("https://joehiyo.github.io/Twitch/final-fantasy-1.ttf")
 }
 
-.ff2 {
+@font-face {
   font-family: "final-fantasy-2";
   src: url("https://joehiyo.github.io/Twitch/final-fantasy-2.ttf")
 }
 
-.ff6 {
+@font-face {
   font-family: "ff6-1x";
   src: url("https://joehiyo.github.io/Twitch/ff6-1x.ttf")
 }
 
-.ff7 {
+@font-face {
   font-family: "final-fantasy-7";
   src: url("https://joehiyo.github.io/Twitch/final-fantasy-7.ttf")
 }
 
-.ffmq {
+@font-face {
   font-family: "final-fantasy-mq";
   src: url("https://joehiyo.github.io/Twitch/final-fantasy-mq.ttf")
 }
 
-.joehiyo {
+@font-face {
   font-family: "joehiyo";
   src: url("https://joehiyo.github.io/Twitch/joehiyo.ttf")
 }
 
-.joehiyo-vwf {
+@font-face {
   font-family: "joehiyo-vwf";
   src: url("https://joehiyo.github.io/Twitch/joehiyo-vwf.ttf")
 }
 
-.lttp {
+@font-face {
   font-family: "lttp";
   src: url("https://joehiyo.github.io/Twitch/lttp.ttf")
 }
 
-.mariorpg {
+@font-face {
   font-family: "mario-rpg";
   src: url("https://joehiyo.github.io/Twitch/mario-rpg.ttf")
 }
 
-.mmx {
+@font-face {
   font-family: "megaman-x";
   src: url("https://joehiyo.github.io/Twitch/megaman-x.ttf")
 }
 
-.pilotwings {
+@font-face {
   font-family: "pilotwings";
   src: url("https://joehiyo.github.io/Twitch/pilotwings.ttf")
 }
 
-.pkmn {
+@font-face {
   font-family: "pokemon-gen1";
   src: url("https://joehiyo.github.io/Twitch/pokemon-gen1.ttf")
 }
 
-.pq {
+@font-face {
   font-family: "paladins-quest";
   src: url("https://joehiyo.github.io/Twitch/paladins-quest.ttf")
 }
 
-.sd3 {
+@font-face {
   font-family: "seiken-densetsu-3";
   src: url("https://joehiyo.github.io/Twitch/seiken-densetsu-3.ttf")
 }
 
-.sf1 {
+@font-face {
   font-family: "shining-force-1";
   src: url("https://joehiyo.github.io/Twitch/shining-force-1.ttf")
 }
 
-.som {
+@font-face {
   font-family: "secret-of-mana";
   src: url("https://joehiyo.github.io/Twitch/secret-of-mana.ttf")
 }
 
-.shadowrun {
+@font-face {
   font-family: "shadowrun";
   src: url("https://joehiyo.github.io/Twitch/shadowrun.ttf")
 }
 
-.so1, .top {
+@font-face {
   font-family: "star-ocean";
   src: url("https://joehiyo.github.io/Twitch/star-ocean.ttf")
 }
 
-.so1menu {
+@font-face {
   font-family: "star-ocean-8x8";
   src: url("https://joehiyo.github.io/Twitch/star-ocean-8x8.ttf")
 }
 
-.tenchi {
+@font-face {
   font-family: "tenchi-rpg";
   src: url("https://joehiyo.github.io/Twitch/tenchi-rpg.ttf")
 }
 
-.terranigma-vwf {
+@font-face {
   font-family: "terranigma";
   src: url("https://joehiyo.github.io/Twitch/terranigma-vwf.ttf")
 }
-
-
-
-
-
-
 
 body {
   background-color: #077;
@@ -163,7 +157,7 @@ td:not([class]) {
     0px -2px #000;
 }
 
-.the7thsagavwf {
+.the7thsagavwf, .the7thsaga-vwf {
   font-family: "7th-saga-vwf";
   font-size: 28px;
   line-height: 36px;
@@ -174,7 +168,7 @@ td:not([class]) {
     0px -2px #000;
 }
 
-.the7thsagamenu {
+.the7thsagamenu, .the7thsaga-menu {
   font-family: "7th-saga-menu";
   font-size: 16px;
   line-height: 24px;
