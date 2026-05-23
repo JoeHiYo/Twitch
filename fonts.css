@@ -54,6 +54,11 @@
 }
 
 @font-face {
+  font-family: "ff-origins";
+  src: url("https://joehiyo.github.io/Twitch/fforigins.ttf")
+}
+
+@font-face {
   font-family: "joehiyo-mono";
   src: url("https://joehiyo.github.io/Twitch/joehiyo.ttf")
 }
@@ -230,6 +235,11 @@ td:not([class]) {
   font-family: "final-fantasy-mq";
   font-size: 20px;
   line-height: 28px;
+}
+
+.fforigins, .ff-origins {
+  font-family: "fforigins";
+  font-size: 24px;
 }
 
 .joehiyo-mono {
