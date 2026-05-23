@@ -89,6 +89,11 @@
 }
 
 @font-face {
+  font-family: "pkmn-emerald";
+  src: url("https://joehiyo.github.io/Twitch/pkmn-emerald.ttf")
+}
+
+@font-face {
   font-family: "paladins-quest";
   src: url("https://joehiyo.github.io/Twitch/paladins-quest.ttf")
 }
@@ -131,6 +136,11 @@
 @font-face {
   font-family: "terranigma";
   src: url("https://joehiyo.github.io/Twitch/terranigma-vwf.ttf")
+}
+
+@font-face {
+  font-family: "uo-classic";
+  src: url("https://joehiyo.github.io/Twitch/uo-classic.ttf")
 }
 
 body {
@@ -222,7 +232,7 @@ td:not([class]) {
   line-height: 28px;
 }
 
-.joehiyo {
+.joehiyo-mono {
   font-family: "joehiyo";
   font-size: 16px;
   line-height: 24px;
@@ -267,6 +277,11 @@ td:not([class]) {
   font-family: "pokemon-gen1";
   font-size: 16px;
   line-height: 24px;
+}
+
+.pkmn-emerald, .pkmnemerald, .pkmn3, .pkmn-3 {
+  font-family: "pkmn-emerald";
+  font-size: 30px;
 }
 
 .pq {
@@ -326,4 +341,14 @@ td:not([class]) {
   font-family: "terranigma";
   font-size: 30px;
   line-height: 38px;
+}
+
+.uo, .uo-classic {
+  font-family: "uo-classic";
+  font-size: 24px;
+  text-shadow:
+    2px 0px #000,
+  	-2px 0px #000,
+    0px 2px #000,
+    0px -2px #000;
 }
