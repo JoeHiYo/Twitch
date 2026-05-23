@@ -14,6 +14,11 @@
 }
 
 @font-face {
+  font-family: "DOS System Font";
+  src: url("https://joehiyo.github.io/Twitch/dos-system-font.ttf");
+}
+
+@font-face {
   font-family: "dragon-warrior";
   src: url("https://joehiyo.github.io/Twitch/dragon-warrior-1.ttf");
 }
@@ -187,6 +192,11 @@ td:not([class]) {
   font-family: "7th-saga-menu";
   font-size: 16px;
   line-height: 24px;
+}
+
+.dos {
+  font-family: "DOS System Font";
+  font-size: 32px;
 }
 
 .dw {
