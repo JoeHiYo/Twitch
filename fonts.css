@@ -54,7 +54,7 @@
 }
 
 @font-face {
-  font-family: "joehiyo";
+  font-family: "joehiyo-mono";
   src: url("https://joehiyo.github.io/Twitch/joehiyo.ttf")
 }
 
@@ -233,7 +233,7 @@ td:not([class]) {
 }
 
 .joehiyo-mono {
-  font-family: "joehiyo";
+  font-family: "joehiyo-mono";
   font-size: 16px;
   line-height: 24px;
 }
